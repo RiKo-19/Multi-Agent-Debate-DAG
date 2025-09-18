@@ -112,3 +112,6 @@ Starting debate between Scientist and Philosopher on: s space exploration worth 
 
 ---
 
+## 🗺️ Diagram
+
+<img width="376" height="673" alt="Image" src="https://github.com/user-attachments/assets/55e2d7a6-7efb-434c-8eff-f6c438760d94" />
