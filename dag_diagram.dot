@@ -1,0 +1,16 @@
+digraph {
+	U [label=UserInput]
+	A [label="Agent A (Scientist)"]
+	M [label=Memory]
+	B [label="Agent B (Philosopher)"]
+	J [label=Judge]
+	W [label="Winner: Scientist" color=lightgreen shape=box style=filled]
+	U -> A
+	A -> M
+	M -> B
+	B -> M
+	M -> A
+	A -> J
+	B -> J
+	J -> W
+}
