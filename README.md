@@ -1,4 +1,4 @@
-# Multi-Agent Debate DAG using LangGraph
+# Multi-Agent Debate DAG
 
 This project implements a **debate simulation system** using **LangGraph** where two AI agents — a **Scientist** and a **Philosopher** — engage in a structured debate on a user-provided topic. The system manages memory, enforces turn-taking, prevents repeated arguments, and ends with a **Judge node** that summarizes the debate and declares a winner.
 
