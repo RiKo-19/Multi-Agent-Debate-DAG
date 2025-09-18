@@ -68,7 +68,7 @@ The debate will run for **8 rounds** and end with a Judge’s summary and decisi
 
 ---
 
-## 💻 Usage Example
+## 💻 Output Example
 ```
 Enter topic for debate: is space exploration worth the cost?
 Starting debate between Scientist and Philosopher on: s space exploration worth the cost?
